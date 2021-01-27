@@ -1,0 +1,36 @@
+<svg id="Type2" xmlns="http://www.w3.org/2000/svg" width="2560" height="2560" viewBox="0 0 2560 2560">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fdf3d1;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #202a33;
+        stroke-width: 26px;
+      }
+
+      .cls-2 {
+        fill: #202a33;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="408" y="116" width="1744" height="2327"/>
+  <rect class="cls-2" x="542" y="1946" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="2066" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="2186" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="1826" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="1466" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="1586" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="1706" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="1346" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="266" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="386" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="506" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="626" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="746" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="866" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="986" width="1488" height="25"/>
+  <rect class="cls-2" x="536" y="1106" width="1488" height="25"/>
+  <rect class="cls-2" x="542" y="1226" width="1488" height="25"/>
+</svg>
